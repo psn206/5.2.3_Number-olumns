@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\Program Files\RevitAPI\NumberСolumns.dll"</Assembly>		
+		<AddInId>B89CBBA2-60E3-4692-9753-F57DFE288299</AddInId>
+		<FullClassName>NumberСolumns.Main</FullClassName>
+		<VendorId>ADSC</VendorId>
+		<Text>К-во колонн</Text>	
+	</AddIn>
+</RevitAddIns>
